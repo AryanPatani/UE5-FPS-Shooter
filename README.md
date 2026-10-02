@@ -17,20 +17,15 @@ Watch the gameplay recording below:
 ## 📸 Screenshots
 
 ### Gameplay
-
-![Gameplay Screenshot](Screenshots/gameplay-01.png)
+![Gameplay](Screenshots/gameplay-01.png)
 
 ### Environment
+![Environment](Screenshots/gameplay-02.png)
 
-![Environment Screenshot](Screenshots/gameplay-02.png)
+### Game States
+![Victory Screen](Screenshots/gameplay-03.png)
 
-### Gameplay
-
-![Gameplay Screenshot](Screenshots/gameplay-03.png)
-
-### In-Game View
-
-![Gameplay Screenshot](Screenshots/gameplay-04.png)
+![Defeat Screen](Screenshots/gameplay-04.png)
 
 ---
 
