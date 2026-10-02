@@ -1,8 +1,8 @@
 # 🎮 FirstGame
 
-A game project developed using **Unreal Engine 5**.
+A first-person exploration game developed using **Unreal Engine 5** and **Blueprints**.
 
-This project was created to explore game development, level design, gameplay mechanics, and Unreal Engine's development workflow.
+This project was created to explore game development, level design, gameplay mechanics, and Unreal Engine's visual scripting workflow.
 
 ---
 
@@ -34,7 +34,7 @@ Watch the gameplay recording below:
 - Interactive gameplay
 - 3D game environment
 - Player movement and controls
-- Gameplay mechanics
+- Navigation, interaction, and puzzle-based gameplay mechanics
 - Level design and environment setup
 - Unreal Engine 5-based development
 
@@ -43,7 +43,7 @@ Watch the gameplay recording below:
 ## 🛠️ Built With
 
 - **Unreal Engine 5**
-- **Blueprints**
+- **Blueprints** (visual scripting)
 - **3D Assets**
 - **Unreal Engine Level Editor**
 
@@ -64,9 +64,7 @@ Through this project, I gained hands-on experience with:
 
 ## 🎮 Play the Game
 
-A packaged Windows build is available in the **Releases** section.
-
-> **Note:** The repository contains the project showcase, screenshots, and gameplay demonstration. The packaged game build is provided separately because of its large size.
+> **Note:** The repository contains the project showcase, screenshots, and gameplay demonstration (see `Demo/gameplay.mp4` above). A packaged, playable build is not yet available due to file size; it may be added to the **Releases** section in the future.
 
 ---
 
@@ -87,3 +85,4 @@ FirstGame/
 │   └── gameplay-04.png
 │
 └── LICENSE
+```
